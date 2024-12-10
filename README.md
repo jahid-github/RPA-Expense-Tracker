@@ -3,10 +3,13 @@
 <p align="center">
   <img src="expense.png" alt="Final Output" width="300"/>
 </p>
+
 **1. Overview:**
+
 The RPA (Robotic Process Automation) Expense Tracker aims to streamline the process of transferring expense data from a note-taking application (e.g., Notion, OneNote, Google Keep) to an expense-tracking website (e.g., Google Sheets, Expense Manager platforms). This project leverages RPA to automate repetitive tasks, reducing human error and saving time.
 
 **2. Explanation:**
+
 A person often records their daily expenses in a note-taking app for convenience. However, when they want to consolidate this data into a structured format on a website, it becomes a tedious, repetitive task. 
 
 *The RPA Expense Tracker automates this process by:*
