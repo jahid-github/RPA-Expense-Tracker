@@ -4,7 +4,8 @@ The RPA (Robotic Process Automation) Expense Tracker aims to streamline the proc
 
 **2. Explanation:**
 A person often records their daily expenses in a note-taking app for convenience. However, when they want to consolidate this data into a structured format on a website, it becomes a tedious, repetitive task. 
-**The RPA Expense Tracker automates this process by:**
+
+*The RPA Expense Tracker automates this process by:*
 
 - Extracting Expense Data: Parsing the expense information from the note-taking app.
 - Processing the Data: Formatting and organizing the extracted data for compatibility with the target website.
@@ -42,7 +43,7 @@ View logs and summaries of automated tasks.
 
 Allow future integration with additional note-taking apps or expense-tracking websites.
 
-**Key Components of the Project**
+**4. Key Components of the Project**
 
 - Data Extraction:
 Use APIs or OCR (Optical Character Recognition) to extract text from the note-taking app.
@@ -64,7 +65,7 @@ Input structured data into the respective fields.
 Keep a detailed log of automation actions (e.g., successful entries, errors).
 Provide a summary of completed tasks.
 
-**Benefits of the RPA Expense Tracker**
+**5. Benefits of the RPA Expense Tracker**
 - Time-Saving: Eliminates repetitive manual entry tasks.
 
 - Accuracy: Reduces human error during data transfer.
@@ -73,7 +74,7 @@ Provide a summary of completed tasks.
 
 - Scalability: Can be extended to work with multiple platforms and workflows.
 
-**Potential Use Cases**
+**6. Potential Use Cases**
 - Individual Users: Automate daily or weekly expense logging into personal finance tools.
 
 - Small Businesses: Streamline expense reporting from informal records to accounting software.
